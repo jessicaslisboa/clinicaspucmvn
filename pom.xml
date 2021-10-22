@@ -312,8 +312,8 @@
 	    <plugins>
 		<plugin>
 			<groupId>org.wildfly.plugins</groupId>
-			<artifactId>wildfly-maven-plugin</artifactId>
-			<version>12.0.0.Final</version>
+    		<artifactId>wildfly-maven-plugin</artifactId>
+    		<version>1.2.0.Final</version>
 		</plugin>
 		<plugin>
 			<groupId>com.heroku.sdk</groupId>
