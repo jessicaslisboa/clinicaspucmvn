@@ -315,13 +315,12 @@
 			<artifactId>wildfly-maven-plugin</artifactId>
 			<version>12.0.0.Final</version>
 		</plugin>
-		<plugins>
-			<plugin>
-				<groupId>com.heroku.sdk</groupId>
-				<artifactId>heroku-maven-plugin</artifactId>
-				<version>3.0.3</version>
-			</plugin>
-		</plugins>		
+		<plugin>
+			<groupId>com.heroku.sdk</groupId>
+			<artifactId>heroku-maven-plugin</artifactId>
+			<version>3.0.3</version>
+		</plugin>
+		
 		<plugin>
 			<artifactId>maven-compiler-plugin</artifactId>
 			<version>3.8.0</version>
